@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hey! It's me MD. Tariqul Islam 👋
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey!+It's+me+MD.+Tariqul+Islam" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;DSA+Learner" />
