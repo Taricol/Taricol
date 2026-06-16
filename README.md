@@ -1,4 +1,4 @@
-<h1 align="center">Hey! It's me MD. Tariqul Islam👋</h1>
+<h1 align="center">Hey! It's me MD. Tariqul Islam 👋</h1>
 
 <h3 align="center">Software Engineering Student | Web Developer | DSA Learner</h3>
 
@@ -8,39 +8,47 @@
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
-## 👨‍💻 About Me
+<h2>🧑‍💻 About Me</h2>
 
-- 🎓 Software Engineering Student at Daffodil International University
-- 💻 Passionate about Web Development and Software Engineering
-- ⚛️ Building applications with React & Tailwind CSS
-- 🌐 Experienced with React Router and REST APIs
-- ⚙️ Exploring Backend Development using Node.js & Express.js
-- 🗄️ Working with MongoDB and MySQL Databases
-- 🧠 Practicing Data Structures & Algorithms
-- 🤖 Interested in Artificial Intelligence
-- 🚀 Always learning and building new things
+<ul>
+<li>🎓 Software Engineering Student at Daffodil International University</li>
+<li>💻 Passionate about Web Development and Software Engineering</li>
+<li>⚛️ Building applications with React & Tailwind CSS</li>
+<li>🌐 Experienced with React Router and REST APIs</li>
+<li>⚙️ Exploring Backend Development using Node.js & Express.js</li>
+<li>🗄️ Working with MongoDB and MySQL Databases</li>
+<li>🧠 Practicing Data Structures & Algorithms</li>
+<li>🤖 Interested in Artificial Intelligence</li>
+<li>🚀 Always learning and building new things</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center" valign="top">
+
+<img
+src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+width="350"
+alt="Coding GIF"
+/>
 
 </td>
 
-<td width="40%" align="center">
-
-<img src="YOUR_GIF_LINK" width="350"/>
-
-</td>
 </tr>
 </table>
-<br>
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/md-tariqul-islam-b5a976349">
+<a href="https://www.linkedin.com/in/md-tariqul-islam-b5a976349/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-
+</p>
 
 ---
 
@@ -55,23 +63,22 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taricol&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taricol&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taricol&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taricol&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taricol&layout=compact&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taricol&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Data Structures & Algorithms
-* Backend Development
-* Full Stack Web Development
-* Artificial Intelligence
-* Open Source Contribution
+- Data Structures & Algorithms
+- Web Development
+- Artificial Intelligence
 
 ---
 
@@ -79,32 +86,28 @@
 
 ### ☕ Coffee Store
 
-* React
-* Tailwind CSS
-* Node.js
-* Express.js
-* MongoDB
+- React
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
 
 ### 💼 Career Code
 
-* React
-* Firebase Authentication
-* MongoDB
-* Express.js
+- React
+- Firebase Authentication
+- MongoDB
+- Express.js
 
 ### 📚 Bookshop Management System
 
-* C Programming
-* File Handling
-* Data Management
+- C Programming
+- File Handling
+- Data Management
 
 ---
 
-
-
-
-
-### 💭 Quote
+## 💭 Quote
 
 > "Consistency beats intensity."
 
