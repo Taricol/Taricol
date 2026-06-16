@@ -1,4 +1,4 @@
-<h1 align="center">Hey! It's me Tarikul Islam 👋</h1>
+<h1 align="center">Hey! It's me MD. Tariqul Islam👋</h1>
 
 <h3 align="center">Software Engineering Student | Web Developer | DSA Learner</h3>
 
@@ -8,48 +8,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<table>
-<tr>
-<td width="55%">
-
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Web Developer
-- ⚛️ React & Tailwind CSS
-- ⚙️ Node.js & Express.js
-- 🗄️ MongoDB & MySQL
-- 🧠 Data Structures & Algorithms
-- 🤖 AI Enthusiast
-- 🚀 Building Real World Projects
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%">
-
-</td>
-</tr>
-</table>
+* 🎓 Software Engineering Student at Daffodil International University
+* 💻 Passionate about Web Development and Software Engineering
+* ⚛️ Building applications with React & Tailwind CSS
+* 🌐 Experienced with React Router and REST APIs
+* ⚙️ Exploring Backend Development using Node.js & Express.js
+* 🗄️ Working with MongoDB and MySQL Databases
+* 🧠 Practicing Data Structures & Algorithms
+* 🤖 Interested in Artificial Intelligence
+* 🚀 Always learning and building new things
 
 <br>
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/md-tariqul-islam-b5a976349">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
 
 ---
 
@@ -108,6 +88,8 @@
 * Data Management
 
 ---
+
+
 
 
 
