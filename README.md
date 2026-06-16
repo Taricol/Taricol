@@ -30,7 +30,7 @@
 <td width="40%" align="center" valign="top">
 
 <img
-src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://media.tenor.com/-qbSsW3ShogAAAAi/pizza-ninjas-pizza-pets.gif)"
 width="350"
 alt="Coding GIF"
 />
