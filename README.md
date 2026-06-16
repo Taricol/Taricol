@@ -1,6 +1,4 @@
-# Hi 👋, I'm Tariqul Islam
-
-<h1 align="center">Hey! It's me Tariqul 👋</h1>
+<h1 align="center">Hey! It's me Tarikul Islam 👋</h1>
 
 <h3 align="center">Software Engineering Student | Web Developer | DSA Learner</h3>
 
@@ -10,17 +8,30 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+<table>
+<tr>
+<td width="55%">
+
 ## 👨‍💻 About Me
 
-* 🎓 Software Engineering Student at Daffodil International University
-* 💻 Passionate about Web Development and Software Engineering
-* ⚛️ Building applications with React & Tailwind CSS
-* 🌐 Experienced with React Router and REST APIs
-* ⚙️ Exploring Backend Development using Node.js & Express.js
-* 🗄️ Working with MongoDB and MySQL Databases
-* 🧠 Practicing Data Structures & Algorithms
-* 🤖 Interested in Artificial Intelligence
-* 🚀 Always learning and building new things
+- 🎓 Software Engineering Student
+- 💻 Web Developer
+- ⚛️ React & Tailwind CSS
+- ⚙️ Node.js & Express.js
+- 🗄️ MongoDB & MySQL
+- 🧠 Data Structures & Algorithms
+- 🤖 AI Enthusiast
+- 🚀 Building Real World Projects
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -98,18 +109,7 @@
 
 ---
 
-## 📈 Coding Journey
 
-```text
-Web Development    ████████████░░░░ 75%
-JavaScript         ████████████░░░░ 75%
-React              ███████████░░░░░ 70%
-Backend            ████████░░░░░░░░ 50%
-DSA                ███████░░░░░░░░░ 45%
-AI                 ███░░░░░░░░░░░░░ 20%
-```
-
----
 
 ### 💭 Quote
 
