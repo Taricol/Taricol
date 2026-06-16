@@ -30,7 +30,7 @@
 <td width="40%" align="center" valign="top">
 
 <img
-src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://tenor.com/view/pizza-ninjas-pizza-pets-pizzaninjas-pizza-ninja-bitcoin-ordinals-gif-18061355015109510792)"
+src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
 width="350"
 alt="Coding GIF"
 />
