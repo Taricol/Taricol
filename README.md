@@ -6,20 +6,31 @@
   <img src="https://komarev.com/ghpvc/?username=Taricol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 👨‍💻 About Me
 
-* 🎓 Software Engineering Student at Daffodil International University
-* 💻 Passionate about Web Development and Software Engineering
-* ⚛️ Building applications with React & Tailwind CSS
-* 🌐 Experienced with React Router and REST APIs
-* ⚙️ Exploring Backend Development using Node.js & Express.js
-* 🗄️ Working with MongoDB and MySQL Databases
-* 🧠 Practicing Data Structures & Algorithms
-* 🤖 Interested in Artificial Intelligence
-* 🚀 Always learning and building new things
+- 🎓 Software Engineering Student at Daffodil International University
+- 💻 Passionate about Web Development and Software Engineering
+- ⚛️ Building applications with React & Tailwind CSS
+- 🌐 Experienced with React Router and REST APIs
+- ⚙️ Exploring Backend Development using Node.js & Express.js
+- 🗄️ Working with MongoDB and MySQL Databases
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Interested in Artificial Intelligence
+- 🚀 Always learning and building new things
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_GIF_LINK" width="350"/>
+
+</td>
+</tr>
+</table>
 <br>
 
 ## 🌐 Connect With Me
