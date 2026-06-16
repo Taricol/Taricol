@@ -1,4 +1,6 @@
-<h1 align="center">Hey! It's me MD. Tariqul Islam 👋</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Hey!+It's+me+MD.+Tariqul+Islam+👋;Software+Engineering+Student;Web+Developer;React+Developer;DSA+Learner;Always+Learning+New+Things+🚀" />
+</p>
 
 <h3 align="center">Software Engineering Student | Web Developer | DSA Learner</h3>
 
