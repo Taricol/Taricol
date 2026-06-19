@@ -1,47 +1,37 @@
-<h3 align="center">
-<a href="https://github.com/MdTarikul-Islam">
-<img alt="Md. Tarikul Islam" src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+me+Md.+Tarikul+Islam!+👋;<+>+I'm+a+Software+Engineering+Student+👨‍💻+</>;A+Web+Developer+%26+DSA+Learner+💻+</>;Building+with+React,+Node.js+%26+MongoDB+</>;Always+Building+New+Things!+🚀;Nice+to+meet+you!🤍&font=JetBrains%20Mono&width=600&height=22&color=FFFFFF&vCenter=true&size=20">
-</a>
-</h3>
+```md
+<h1 align="center">Hi 👋, I'm MD. Tarikul Islam</h1>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+Learner;Always+Learning+New+Things+🚀" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+---
 
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-<h3>👨‍💻 About Me</h3>
+## 👨‍💻 About Me
 
-<ul>
-
-<li>🎓 <b>Software Engineering Student</b> at Daffodil International University.</li>
-
-<li>💻 Passionate about <b>Web Development</b> and Software Engineering.</li>
-
-<li>⚛️ Building modern web applications using <b>React</b>, <b>JavaScript</b> and <b>Tailwind CSS</b>.</li>
-
-<li>🌐 Experienced with <b>React Router</b> and REST APIs.</li>
-
-<li>⚙️ Learning <b>Node.js</b>, <b>Express.js</b> and <b>MongoDB</b>.</li>
-
-<li>🗄️ Familiar with <b>MySQL</b>.</li>
-
-<li>🧠 Practicing <b>Data Structures & Algorithms</b>.</li>
-
-<li>🚀 Goal: Become a <b>Full Stack Software Engineer</b>.</li>
-
-</ul>
+- 🎓 Software Engineering Student at **Daffodil International University**
+- 💻 Passionate about **Web Development**
+- ⚛️ Building projects using **React** & **Tailwind CSS**
+- 🌐 Experienced with **React Router** & REST APIs
+- ⚙️ Learning **Node.js**, **Express.js** & **MongoDB**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🤖 Interested in **Artificial Intelligence**
+- 🚀 Goal: Become a **Full Stack Software Engineer**
 
 </td>
 
-<td width="42%" align="center" valign="top">
+<td width="45%" align="center">
 
-<img width="360"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzcxazFhY3h5ajdjcTYyeDJuNjh5enFja2RyYnpnMXVmemNtbXhzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img width="330" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 </td>
 
@@ -50,31 +40,23 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzcxazFhY3h5ajdjcTYyeDJuN
 
 ---
 
-<h3>
-Connect with me
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35">
-</h3>
+## 🤝 Connect With Me
 
 <p>
 
 <a href="https://www.linkedin.com/in/md-tariqul-islam-b5a976349/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/MdTarikul-Islam">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-<h3>
-Languages and Tools
-<img src="https://github.com/golden821man/golden821man/blob/main/code.gif" width="25">
-</h3>
+## 🛠 Languages & Tools
 
 <p>
 
@@ -84,41 +66,45 @@ Languages and Tools
 
 ---
 
+## 📊 GitHub Statistics
+
 <p align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165"
-src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-<h3>🎯 Current Focus</h3>
+## 🎯 Current Focus
 
 - 🚀 Data Structures & Algorithms
 - 🌐 Full Stack Web Development
 - ⚙️ Backend Development
 - 🤖 Artificial Intelligence
-- 🌟 Open Source Contribution
+- 🌟 Open Source
 
 ---
 
-<h3>💭 Quote</h3>
+## 💭 Quote
 
-> **Code. Learn. Build. Repeat.**
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Happy Coding 🚀
+
+⭐ Thanks for visiting my profile!
+
+Happy Coding 🚀
+
 </h3>
+```
