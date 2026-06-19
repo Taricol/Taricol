@@ -44,11 +44,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/md-tariqul-islam-b5a976349/" target="_blank">
+<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/Taricol" target="_blank">
+<a href="https://github.com/MdTarikul-Islam" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -68,15 +68,15 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taricol&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taricol&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taricol&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
