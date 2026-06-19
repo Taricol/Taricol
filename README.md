@@ -104,11 +104,7 @@ alt="Coding GIF"
 - MongoDB
 - Express.js
 
-### 📚 Bookshop Management System
 
-- C Programming
-- File Handling
-- Data Management
 
 ---
 
