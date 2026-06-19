@@ -1,15 +1,15 @@
-<!-- Animated Header -->
+<!-- ========================== HEADER ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey!+I'm+MD.+Tariqul+Islam+👋;Software+Engineering+Student;Web+Developer;React+Developer;DSA+Learner;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey!+I'm+MD.+Tariqul+Islam+👋;Software+Engineering+Student;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Data+Structures+%26+Algorithms+Learner;Always+Learning+New+Things+🚀" />
 </p>
 
 <h3 align="center">
-Software Engineering Student | Web Developer | DSA Learner
+Software Engineering Student | Full Stack Web Developer | DSA Learner
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -24,18 +24,19 @@ Software Engineering Student | Web Developer | DSA Learner
 - 🎓 Software Engineering Student at **Daffodil International University**
 - 💻 Passionate about **Web Development**
 - ⚛️ Building applications using **React & Tailwind CSS**
-- 🌐 Experienced with **React Router & REST APIs**
-- ⚙️ Learning **Node.js, Express.js & MongoDB**
+- 🌐 Experienced with **React Router** & **REST APIs**
+- ⚙️ Building backend applications using **Node.js**, **Express.js** & **MongoDB**
 - 🗄️ Familiar with **MySQL**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🤖 Exploring **Artificial Intelligence**
-- 🚀 Love building real-world projects
+- 🚀 Love building real-world software solutions
+- 📚 Lifelong learner and technology enthusiast
 
 </td>
 
 <td width="42%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcee599.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcee599.gif" width="330"/>
 
 </td>
 
@@ -44,37 +45,41 @@ Software Engineering Student | Web Developer | DSA Learner
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p>
 
-<a href="www.linkedin.com/in/md-tarikul-islam-b5a976349">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 
 
+<a href="https://github.com/MdTarikul-Islam">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,32 +91,66 @@ Software Engineering Student | Web Developer | DSA Learner
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ☕ Coffee Store
-React • Tailwind CSS • Node.js • Express • MongoDB
+## ☕ Coffee Store
 
-### 💼 Career Code
-React • Firebase • Express • MongoDB
+> Full Stack Coffee Shop Management Application built using React, Tailwind CSS, Node.js, Express.js and MongoDB.
 
-### 📚 Bookshop Management System
-C Programming • File Handling
+🔗 Repository:
+https://github.com/MdTarikul-Islam/YOUR_REPOSITORY
 
 ---
 
-## 🎯 Current Goals
+## 💼 Career Code
+
+> Career Platform with Firebase Authentication, React and MongoDB.
+
+🔗 Repository:
+https://github.com/MdTarikul-Islam/YOUR_REPOSITORY
+
+---
+
+## 📚 Bookshop Management System
+
+> Console-based Bookshop Management System using C Programming and File Handling.
+
+🔗 Repository:
+https://github.com/MdTarikul-Islam/YOUR_REPOSITORY
+
+---
+
+# 🎯 Current Goals
 
 - ✅ Master Data Structures & Algorithms
 - ✅ Become a Full Stack Developer
-- ✅ Learn AI & Machine Learning
+- ✅ Learn Artificial Intelligence
+- ✅ Build Scalable Applications
 - ✅ Contribute to Open Source
 
 ---
 
-## 💭 Quote
+# 📫 Contact
 
-> **"Consistency beats intensity."**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/md-tarikul-islam-b5a976349/
+
+🐙 GitHub:
+https://github.com/MdTarikul-Islam
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 💭 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Happy Coding 🚀**
+
+</p>
