@@ -57,15 +57,13 @@ Connect with me
 
 <p>
 
-<a href="https://www.linkedin.com/in/md-tariqul-islam-b5a976349/">
+<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/MdTarikul-Islam">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35">
-</a>
+
 
 </p>
 
@@ -83,21 +81,17 @@ Languages and Tools
 </p>
 
 ---
-
 <p align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="165"
-src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
