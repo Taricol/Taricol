@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;DSA+Learner" />
 </p>
-
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Taricol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
