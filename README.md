@@ -66,11 +66,13 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
 
 </p>
 
