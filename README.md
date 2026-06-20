@@ -41,7 +41,7 @@
 <td width="42%" align="center" valign="top">
 
 <img width="360"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzcxazFhY3h5ajdjcTYyeDJuNjh5enFja2RyYnpnMXVmemNtbXhzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif"/>
 
 </td>
 
