@@ -3,7 +3,7 @@
 <img alt="Md. Tarikul Islam" src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+me+Md.+Tarikul+Islam!+👋;<+>+I'm+a+Software+Engineering+Student+👨‍💻+</>;A+Web+Developer+%26+DSA+Learner+💻+</>;Building+with+React,+Node.js+%26+MongoDB+</>;Always+Building+New+Things!+🚀;Nice+to+meet+you!🤍&font=JetBrains%20Mono&width=600&height=22&color=FFFFFF&vCenter=true&size=20">
 </a>
 </h3>
-
+ 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
