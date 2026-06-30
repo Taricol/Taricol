@@ -42,26 +42,12 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>
 </p>
 
----
 
-# 📊 GitHub Analytics
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MdTarikul-Islam&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
@@ -89,7 +75,7 @@
 - Data Structures & Algorithms
 - React
 - Node.js
-- MongoDB
+
 
 ---
 
@@ -97,13 +83,7 @@
 
 > I believe consistency beats talent when learning software engineering.
 
----
 
-# 💬 Quote
-
-> **Human 0 → 1 | A Life in Progress**
-
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
