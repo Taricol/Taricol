@@ -1,118 +1,113 @@
+```{=html}
 <h3 align="center">
-<a href="https://github.com/MdTarikul-Islam">
-<img alt="Md. Tarikul Islam" src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+me+Md.+Tarikul+Islam!+👋;<+>+I'm+a+Software+Engineering+Student+👨‍💻+</>;A+Web+Developer+%26+DSA+Learner+💻+</>;Building+with+React,+Node.js+%26+MongoDB+</>;Always+Building+New+Things!+🚀;Nice+to+meet+you!🤍&font=JetBrains%20Mono&width=600&height=22&color=FFFFFF&vCenter=true&size=20">
-</a>
+```
+`<a href="https://github.com/MdTarikul-Islam">`{=html}
+`<img alt="Md. Tarikul Islam" src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Md.+Tarikul+Islam!+👋;Software+Engineering+Student+👨‍💻;Learning+C%2B%2B,+DSA+%26+Web+Development;Building+Projects+Every+Day+🚀;Always+Learning+New+Things!&font=JetBrains%20Mono&width=650&height=25&color=58A6FF&vCenter=true&size=22">`{=html}
+`</a>`{=html}
+```{=html}
 </h3>
- 
+```
+```{=html}
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
+```
+`<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile%20Views&color=0e75b6&style=flat"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <table>
+```
+```{=html}
 <tr>
-
+```
+```{=html}
 <td width="58%" valign="top">
+```
+## 👨‍💻 About Me
 
-<h3>👨‍💻 About Me</h3>
+-   🎓 **Software Engineering Student** at Daffodil International
+    University
+-   💻 Passionate about **Programming**, **Software Engineering**, and
+    **Problem Solving**
+-   🌱 Currently learning **C++**, **Data Structures & Algorithms**
+-   ⚛️ Exploring **React**, **JavaScript**, and modern frontend
+    development
+-   ⚙️ Learning **Node.js**, **Express.js**, and **MongoDB**
+-   🗄️ Familiar with **SQL** and **Microsoft SQL Server**
+-   🔧 Building practical projects to improve my development skills
+-   🚀 Goal: **Become a Full Stack Software Engineer**
 
-<ul>
-
-<li>🎓 <b>Software Engineering Student</b> at Daffodil International University.</li>
-
-<li>💻 Passionate about <b>Web Development</b> and Software Engineering.</li>
-
-<li>⚛️ Building modern web applications using <b>React</b>, <b>JavaScript</b> and <b>Tailwind CSS</b>.</li>
-
-<li>🌐 Experienced with <b>React Router</b> and REST APIs.</li>
-
-<li>⚙️ Learning <b>Node.js</b>, <b>Express.js</b> and <b>MongoDB</b>.</li>
-
-<li>🗄️ Familiar with <b>MySQL</b>.</li>
-
-<li>🧠 Practicing <b>Data Structures & Algorithms</b>.</li>
-
-<li>🚀 Goal: Become a <b>Full Stack Software Engineer</b>.</li>
-
-</ul>
-
+```{=html}
 </td>
-
-<td width="42%" align="center" valign="top">
-
-<img width="360"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVveDcxM2U5bWE4MnVwNDRrM2dqdXI4N3R2N3BjemZ6a2hpcm40MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif"/>
-
+```
+```{=html}
+<td width="42%" align="center">
+```
+`<img width="360" src="https://raw.githubusercontent.com/golden821man/golden821man/main/code.gif"/>`{=html}
+```{=html}
 </td>
-
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
+```
 
----
+------------------------------------------------------------------------
 
-<h3>
-Connect with me
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35">
-</h3>
+## 🤝 Connect with Me
 
-<p>
+`<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349">`{=html}
+`<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">`{=html}
+`</a>`{=html}
 
-<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">
-</a>
+------------------------------------------------------------------------
 
-&nbsp;&nbsp;
+## 🛠️ Languages & Tools
 
+`<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>`{=html}
 
+------------------------------------------------------------------------
 
-</p>
-
----
-
-<h3>
-Languages and Tools
-<img src="https://github.com/golden821man/golden821man/blob/main/code.gif" width="25">
-</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>
-
-</p>
-
----
+```{=html}
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
-
+```
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>`{=html}
+`<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
-
+```
+`<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<h3>🎯 Current Focus</h3>
+## 🎯 Current Focus
 
-- 🚀 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- ⚙️ Backend Development
-- 🤖 Artificial Intelligence
-- 🌟 Open Source Contribution
+-   📚 Data Structures & Algorithms
+-   💻 C++ Programming
+-   🌐 Web Development
+-   ⚙️ Backend Development
+-   🚀 Building Practical Projects
 
----
+------------------------------------------------------------------------
 
-<h3>💭 Quote</h3>
+## 💭 Quote
 
-> **Code. Learn. Build. Repeat.**
+> **Learning today. Building tomorrow.**
 
----
+------------------------------------------------------------------------
 
+```{=html}
 <h3 align="center">
+```
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
+```{=html}
 </h3>
+```
