@@ -1,113 +1,110 @@
-```{=html}
-<h3 align="center">
-```
-`<a href="https://github.com/MdTarikul-Islam">`{=html}
-`<img alt="Md. Tarikul Islam" src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Md.+Tarikul+Islam!+👋;Software+Engineering+Student+👨‍💻;Learning+C%2B%2B,+DSA+%26+Web+Development;Building+Projects+Every+Day+🚀;Always+Learning+New+Things!&font=JetBrains%20Mono&width=650&height=25&color=58A6FF&vCenter=true&size=22">`{=html}
-`</a>`{=html}
-```{=html}
-</h3>
-```
-```{=html}
+# 👋 Hi, I'm Md. Tarikul Islam
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Learning+C%2B%2B+%7C+DSA+%7C+Web+Development;Building+Projects+and+Improving+Every+Day;Welcome+to+my+GitHub!+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Software Engineering Student at **Daffodil International University**
+- 💻 Passionate about Programming & Software Engineering
+- 🌱 Currently learning **C++**, **Data Structures & Algorithms**
+- ⚛️ Exploring **React**, **JavaScript**, **Node.js** & **MongoDB**
+- 🗄️ Familiar with **SQL** & **Microsoft SQL Server**
+- 🚀 Building practical projects to improve my skills
+- 🎯 Goal: Become a Full Stack Software Engineer
+
+---
+
+# 🌐 Connect
+
 <p align="left">
-```
-`<img src="https://komarev.com/ghpvc/?username=MdTarikul-Islam&label=Profile%20Views&color=0e75b6&style=flat"/>`{=html}
-```{=html}
+<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/MdTarikul-Islam">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 </p>
-```
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="58%" valign="top">
-```
-## 👨‍💻 About Me
 
--   🎓 **Software Engineering Student** at Daffodil International
-    University
--   💻 Passionate about **Programming**, **Software Engineering**, and
-    **Problem Solving**
--   🌱 Currently learning **C++**, **Data Structures & Algorithms**
--   ⚛️ Exploring **React**, **JavaScript**, and modern frontend
-    development
--   ⚙️ Learning **Node.js**, **Express.js**, and **MongoDB**
--   🗄️ Familiar with **SQL** and **Microsoft SQL Server**
--   🔧 Building practical projects to improve my development skills
--   🚀 Goal: **Become a Full Stack Software Engineer**
+---
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="42%" align="center">
-```
-`<img width="360" src="https://raw.githubusercontent.com/golden821man/golden821man/main/code.gif"/>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
+# 🛠 Tech Stack
 
-------------------------------------------------------------------------
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>
+</p>
 
-## 🤝 Connect with Me
+---
 
-`<a href="https://www.linkedin.com/in/md-tarikul-islam-b5a976349">`{=html}
-`<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">`{=html}
-`</a>`{=html}
+# 📊 GitHub Analytics
 
-------------------------------------------------------------------------
-
-## 🛠️ Languages & Tools
-
-`<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>`{=html}
-
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>`{=html}
-`<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTarikul-Islam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MdTarikul-Islam&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTarikul-Islam&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🎯 Current Focus
+# 🏆 GitHub Trophies
 
--   📚 Data Structures & Algorithms
--   💻 C++ Programming
--   🌐 Web Development
--   ⚙️ Backend Development
--   🚀 Building Practical Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MdTarikul-Islam&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 💭 Quote
+# 📈 Contribution Graph
 
-> **Learning today. Building tomorrow.**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdTarikul-Islam&theme=tokyo-night&hide_border=true"/>
+</p>
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<h3 align="center">
-```
+# 🎯 Current Focus
+
+- 📚 Data Structures & Algorithms
+- 💻 C++ Programming
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 🚀 Building Practical Projects
+
+---
+
+# 📚 Currently Learning
+
+- C++
+- Data Structures & Algorithms
+- React
+- Node.js
+- MongoDB
+
+---
+
+# 💡 Fun Fact
+
+> I believe consistency beats talent when learning software engineering.
+
+---
+
+# 💬 Quote
+
+> **Human 0 → 1 | A Life in Progress**
+
+---
+
+<p align="center">
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
-```{=html}
-</h3>
-```
+</p>
