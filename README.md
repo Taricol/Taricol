@@ -67,14 +67,6 @@
 - ⚙️ Backend Development
 - 🚀 Building Practical Projects
 
----
-
-# 📚 Currently Learning
-
-- C++
-- Data Structures & Algorithms
-- React
-- Node.js
 
 
 ---
